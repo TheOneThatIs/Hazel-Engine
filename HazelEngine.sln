@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HazelEngine", "HazelEngine\HazelEngine.vcxproj", "{B9B17A10-4FB9-4D7B-8565-9CF23D2B1A74}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Sandbox", "Sandbox\Sandbox.vcxproj", "{308E4741-D7EE-405A-AA5A-AA45E4C9C6EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{308E4741-D7EE-405A-AA5A-AA45E4C9C6EC}.Debug|x64.ActiveCfg = Debug|x64
+		{308E4741-D7EE-405A-AA5A-AA45E4C9C6EC}.Release|x64.ActiveCfg = Release|x64
+		{B9B17A10-4FB9-4D7B-8565-9CF23D2B1A74}.Debug|x64.ActiveCfg = Debug|x64
+		{B9B17A10-4FB9-4D7B-8565-9CF23D2B1A74}.Release|x64.ActiveCfg = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {796B6918-E599-4A8B-A8B1-C4A5F53BD1BB}
+	EndGlobalSection
+EndGlobal
